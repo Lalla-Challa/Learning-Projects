@@ -16,4 +16,4 @@ num_2=num_3
 
 print() # Next line
 
-print(num_1, num_2) 
+print(num_1,",", num_2) 
